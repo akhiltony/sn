@@ -1,5 +1,6 @@
-title: x_8821_atf
-description: Automated Testing Framework tests that SHOULD have been
+title: osaf
+description: Open Source Activity Formatter
+theme: jekyll-theme-modernist
 defaults:
   - 
     scope:
