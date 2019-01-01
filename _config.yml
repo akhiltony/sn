@@ -1,0 +1,8 @@
+title: x_8821_atf
+description: Automated Testing Framework tests that SHOULD have been
+defaults:
+  - 
+    scope:
+      path: "README.md"
+    values:
+      permalink: "index.html"

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<g:evaluate>
+try {
+    var documentId = RP.getParameterValue("sys_id");
+    var referringURL = RP.getReferringURL();
+    var table = referringURL.split(".")[0];
+	var current = new GlideRecord(table);
+	current.get(documentId);
+    var entries = [];
+    var x = 0;
+	var journal = new GlideRecord('sys_journal_field');
+	journal.addQuery('element_id', documentId);
+	journal.orderByDesc('sys_created_on');
+	journal.query();
+	while(journal.next()){
+        entries.push({
+            value: journal.getValue("value"),
+            label: current[journal.getValue('element')].getLabel(),
+            field: journal.getValue("element"),
+            user: (function(){
+		      var u = new GlideRecord('sys_user');
+		      if(u.get('user_name',journal.getValue('sys_created_by'))){
+		        return u.getDisplayValue();
+		      } else {
+		        return journal.getValue('sys_created_by');
+		      }
+		    })(),
+            time: journal.sys_created_on.getDisplayValue(),
+            classNames: (function() {
+                if (journal.getValue("element") === "work_notes") {
+                    return "alert alert-warning";
+                } else {
+                    return "alert alert-info";
+                }
+            })()
+        });
+    }
+} catch (e) {
+    gs.addErrorMessage(JSON.stringify(e));
+}
+	</g:evaluate>
+	<!--
+    <p>Documentid ${documentId}</p>
+	<p>Referring URL ${referringURL}</p>
+	<p>Entries length ${entries.length}</p>
+	<p>Entries ${JSON.stringify(entries)}</p>
+	-->
+    <div class="container">
+		<div class="row">
+			<div class="label_left label_spacing">
+				<label class="col-xs-12 col-md-1_5 col-lg-2 control-label">
+					<span></span>
+					<span class="label-text">Activites</span>
+				</label>
+			</div>
+			<div class="col-md-8">
+				<j:while test="${parseInt(x,10)!=entries.length}">
+				<div class="row">
+					<div class="${entries[x].classNames} col-md-12" role="alert">
+						<div>
+							<span>${entries[x].label}:$[SP]</span>
+							<span>${entries[x].value}</span>
+							<span class="hide">${JSON.stringify(entries[x])}</span>
+						</div>
+						<footer class="blockquote-footer">${entries[x].time} (<cite title="Source Title">${entries[x].user}</cite>)</footer>
+					</div>
+				<g:evaluate>x = x + 1;</g:evaluate>
+				</div>
+		</j:while>
+			</div>
+		</div>
+	</div>
+</j:jelly>
