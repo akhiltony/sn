@@ -1,6 +1,5 @@
 title: osaf
 description: Open Source Activity Formatter
-theme: jekyll-theme-modernist
 defaults:
   - 
     scope:
