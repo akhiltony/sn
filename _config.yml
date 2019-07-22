@@ -1,8 +1,0 @@
-title: osaf
-description: Open Source Activity Formatter
-defaults:
-  - 
-    scope:
-      path: "README.md"
-    values:
-      permalink: "index.html"
