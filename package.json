@@ -1,0 +1,22 @@
+{
+  "name": "sn",
+  "version": "1.0.0",
+  "description": "> Open Source Activity Formatter",
+  "main": "build-properties.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacebenson/sn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacebenson/sn/issues"
+  },
+  "homepage": "https://github.com/jacebenson/sn#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}

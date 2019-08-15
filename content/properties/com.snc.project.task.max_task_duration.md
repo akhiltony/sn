@@ -1,0 +1,7 @@
+---
+title: "com.snc.project.task.max_task_duration"
+---
+
+Description: Max duration (in days) allowed for a project/project task  record
+
+Value: `2600`
