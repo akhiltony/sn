@@ -6,7 +6,9 @@ title = "Jace's SN Documentation"
 theme = "hugo-theme-docdock"
 # themesdir = "../.."
 pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
+pygmentsStyle = "dracula"
+# pygmentsStyle = "monokaidark"
+# pygmentsStyle = "solarized-dark"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false

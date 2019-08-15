@@ -8,48 +8,7 @@ aliases:
 
 [Docs](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.html)
 
-## canCreate
-
-Determines if the user's role permits creation of new records in this
-field
-
-## canRead
-
-Determines if the GlideRecord table can be read from
-
-## canWrite
-
-Determines if the GlideRecord table can be written to
-
-## changes
-
-Determines if the current field has been modified
-
-## changesFrom
-
-Determines the previous value of the current field matched a certain
-object
-
-## changesTo
-
-Determines if the new value of a field after a change matches a certain
-object
-
-## dateNumericValue
-
-Gets date in numberic value
-
-## getAttribute
-
-Gets the value of the attribute on the field in question from the
-dictionary as a string. To get the value as a boolean use
-getBooleanAttribute(String)
-
-## getBooleanAttribute
-
-Gets the value of the attribute on the field in question from the
-dictionary as a string. To get the value as a string, use
-getAttribute(string)
+{{% children style="h3" depth="3" description="true"  %}}
 
 ## getChoices
 
