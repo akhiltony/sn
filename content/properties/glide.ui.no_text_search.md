@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.no_text_search"
+description: "Property"
 ---
 
 Description: List of tables (comma-separated) that will not appear as options when setting up Global Text Search tables.

@@ -1,5 +1,6 @@
 ---
 title: "sa.map.max_connections_in_properties_panel"
+description: "Property"
 ---
 
 Description: Maximal amount of connection properties to be shown at once when connection line selected on service map.

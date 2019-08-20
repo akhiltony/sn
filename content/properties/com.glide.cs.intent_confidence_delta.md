@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.intent_confidence_delta"
+description: "Property"
 ---
 
 Description: 

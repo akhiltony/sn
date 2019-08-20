@@ -1,5 +1,6 @@
 ---
 title: "glide.management.host"
+description: "Property"
 ---
 
 Description: Management host server:

@@ -1,5 +1,6 @@
 ---
 title: "sn_tis.hi_api_username"
+description: "Property"
 ---
 
 Description: Username to query HI for instance details

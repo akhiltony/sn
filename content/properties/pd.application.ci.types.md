@@ -1,5 +1,6 @@
 ---
 title: "pd.application.ci.types"
+description: "Property"
 ---
 
 Description: CI Types that do not extend from cmdb_ci_appl that are to be listed as application CI Types in the Pattern Designer

@@ -1,5 +1,6 @@
 ---
 title: "css.assessment.caption.background.color"
+description: "Property"
 ---
 
 Description: Assessment caption background color

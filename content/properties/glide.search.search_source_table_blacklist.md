@@ -1,5 +1,6 @@
 ---
 title: "glide.search.search_source_table_blacklist"
+description: "Property"
 ---
 
 Description: A CSV string for list of tables to be excluded from being added as a search source

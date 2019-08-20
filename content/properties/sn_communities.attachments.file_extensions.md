@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.attachments.file_extensions"
+description: "Property"
 ---
 
 Description: Supported file extensions for Communities attachments. 

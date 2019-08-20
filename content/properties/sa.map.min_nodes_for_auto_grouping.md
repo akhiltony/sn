@@ -1,5 +1,6 @@
 ---
 title: "sa.map.min_nodes_for_auto_grouping"
+description: "Property"
 ---
 
 Description: Default: 10. Minimal number of CIs on a map to apply CI grouping.

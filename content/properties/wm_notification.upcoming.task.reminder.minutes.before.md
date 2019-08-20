@@ -1,5 +1,6 @@
 ---
 title: "wm_notification.upcoming.task.reminder.minutes.before"
+description: "Property"
 ---
 
 Description: Time before the upcoming reminder will be sent

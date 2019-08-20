@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.va_profile"
+description: "Property"
 ---
 
 Description: Virtual Agent Profile - Live Profile Reference

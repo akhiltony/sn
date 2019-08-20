@@ -1,5 +1,6 @@
 ---
 title: "com.snc.sla.calculation.use_time_left"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Use Business time left field to determine if an SLA is breached<br/></span>

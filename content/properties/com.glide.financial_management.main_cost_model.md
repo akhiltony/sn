@@ -1,5 +1,6 @@
 ---
 title: "com.glide.financial_management.main_cost_model"
+description: "Property"
 ---
 
 Description: 

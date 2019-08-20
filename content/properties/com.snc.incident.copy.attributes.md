@@ -1,5 +1,6 @@
 ---
 title: "com.snc.incident.copy.attributes"
+description: "Property"
 ---
 
 Description: List of attributes (comma-separated) that will be copied from the originating incident

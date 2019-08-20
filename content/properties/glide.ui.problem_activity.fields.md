@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.problem_activity.fields"
+description: "Property"
 ---
 
 Description: Problem activity formatter fields

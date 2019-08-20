@@ -1,5 +1,6 @@
 ---
 title: "work.management.travel.calculation.dynamic_scheduling"
+description: "Property"
 ---
 
 Description: Dynamic Scheduling

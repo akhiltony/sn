@@ -1,5 +1,6 @@
 ---
 title: "finance.timezone.weight"
+description: "Property"
 ---
 
 Description: Time Zone Weight

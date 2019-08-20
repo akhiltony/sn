@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.portal_url_mapping.csm.sn_customerservice_case"
+description: "Property"
 ---
 
 Description: CSM Customer Service Case Record Mapping

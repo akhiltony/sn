@@ -1,5 +1,6 @@
 ---
 title: "glide.db.clone.fallback_inapp"
+description: "Property"
 ---
 
 Description: PLEASE CONTACT CS-PT TEAM BEFORE CHANGING

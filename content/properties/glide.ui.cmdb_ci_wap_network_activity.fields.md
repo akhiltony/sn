@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_wap_network_activity.fields"
+description: "Property"
 ---
 
 Description: Wireless Access Point activity formatter fields

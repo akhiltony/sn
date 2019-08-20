@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.report.datasets.default_palettes"
+description: "Property"
 ---
 
 Description: List of color palette names that are used as a default color palette for each dataset

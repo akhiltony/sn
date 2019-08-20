@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_solaris_instance_activity.fields"
+description: "Property"
 ---
 
 Description: Solaris Virtual Machine Instance activity formatter fields

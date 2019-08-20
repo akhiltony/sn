@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.itfm_sb_stmt_activity.fields"
+description: "Property"
 ---
 
 Description: Showback Statement activity formatter fields

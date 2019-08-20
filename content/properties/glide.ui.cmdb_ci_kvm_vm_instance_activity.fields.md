@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_kvm_vm_instance_activity.fields"
+description: "Property"
 ---
 
 Description: VKVM irtual Machine Instance activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.nav.icons"
+description: "Property"
 ---
 
 Description: Icons available for use as favorites.

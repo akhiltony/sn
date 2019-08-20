@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_hardware_activity.fields"
+description: "Property"
 ---
 
 Description: Hardware activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.html.editor.v4.font.collection"
+description: "Property"
 ---
 
 Description: (TinyMCE v.4.0.26) User can select different font collection for Tiny MCE HTML editor:

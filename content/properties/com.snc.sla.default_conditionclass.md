@@ -1,5 +1,6 @@
 ---
 title: "com.snc.sla.default_conditionclass"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Default condition type<br/></span>

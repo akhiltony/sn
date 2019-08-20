@@ -1,5 +1,6 @@
 ---
 title: "glide.cmdb.logger.use_syslog.CMDBHealth"
+description: "Property"
 ---
 
 Description: Comma separated list that tracks the level of logging the

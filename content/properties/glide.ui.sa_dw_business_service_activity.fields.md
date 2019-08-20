@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.sa_dw_business_service_activity.fields"
+description: "Property"
 ---
 
 Description: Planned Business service activity formatter fields

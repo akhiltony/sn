@@ -1,5 +1,6 @@
 ---
 title: "glide.avp.server.enable_new"
+description: "Property"
 ---
 
 Description: This property specifies which AVP server should be used for printing PDF. 

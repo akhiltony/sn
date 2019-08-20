@@ -1,5 +1,6 @@
 ---
 title: "glide.email.provision_endpoint"
+description: "Property"
 ---
 
 Description: URL for ServiceNow email provisioning server

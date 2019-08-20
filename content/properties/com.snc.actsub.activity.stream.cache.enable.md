@@ -1,5 +1,6 @@
 ---
 title: "com.snc.actsub.activity.stream.cache.enable"
+description: "Property"
 ---
 
 Description: Enables the platform cache for ActivityFeed of activity stream.

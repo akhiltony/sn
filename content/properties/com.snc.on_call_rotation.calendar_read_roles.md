@@ -1,5 +1,6 @@
 ---
 title: "com.snc.on_call_rotation.calendar_read_roles"
+description: "Property"
 ---
 
 Description: List of roles (comma-separated) that can read the calendar.

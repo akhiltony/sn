@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.public_forum_user"
+description: "Property"
 ---
 
 Description: Sys_id of the Forum User whose type is Public. This value will be used every time while calculationg the Access permissions to forums.

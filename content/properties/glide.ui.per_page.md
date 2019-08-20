@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.per_page"
+description: "Property"
 ---
 
 Description: 'Items per page' drop-down options (comma separated, no spaces):

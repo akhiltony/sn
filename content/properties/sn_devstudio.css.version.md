@@ -1,5 +1,6 @@
 ---
 title: "sn_devstudio.css.version"
+description: "Property"
 ---
 
 Description: CSS Last Modified

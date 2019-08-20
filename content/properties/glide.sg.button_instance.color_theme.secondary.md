@@ -1,5 +1,6 @@
 ---
 title: "glide.sg.button_instance.color_theme.secondary"
+description: "Property"
 ---
 
 Description: 

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.email_client.email_address.disambiguator"
+description: "Property"
 ---
 
 Description: This configuration has moved to the default Email Client Configuration record

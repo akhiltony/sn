@@ -1,5 +1,6 @@
 ---
 title: "glide.knowman.task_kb"
+description: "Property"
 ---
 
 Description: The sys_id of the knowledge base when creating knowledge from task records

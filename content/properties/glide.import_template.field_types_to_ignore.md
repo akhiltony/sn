@@ -1,5 +1,6 @@
 ---
 title: "glide.import_template.field_types_to_ignore"
+description: "Property"
 ---
 
 Description: A list of fields that will be ignored when a record is imported with the Easy Import feature.

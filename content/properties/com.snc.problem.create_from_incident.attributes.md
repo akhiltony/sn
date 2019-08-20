@@ -1,5 +1,6 @@
 ---
 title: "com.snc.problem.create_from_incident.attributes"
+description: "Property"
 ---
 
 Description: List of attributes (comma-separated) that will be copied from the incident to create a new problem

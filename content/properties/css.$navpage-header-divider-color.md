@@ -1,5 +1,6 @@
 ---
 title: "css.$navpage-header-divider-color"
+description: "Property"
 ---
 
 Description: Header divider stripe color

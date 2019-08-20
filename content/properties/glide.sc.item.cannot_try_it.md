@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.item.cannot_try_it"
+description: "Property"
 ---
 
 Description: List of class names for catalog items that do not use the default "Try It" ui action

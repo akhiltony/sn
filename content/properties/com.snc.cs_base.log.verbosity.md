@@ -1,5 +1,6 @@
 ---
 title: "com.snc.cs_base.log.verbosity"
+description: "Property"
 ---
 
 Description: Code Search log verbosity for CSM Base project. Set to "1" representing info by default. Options are:

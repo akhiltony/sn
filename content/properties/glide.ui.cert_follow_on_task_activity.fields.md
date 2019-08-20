@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cert_follow_on_task_activity.fields"
+description: "Property"
 ---
 
 Description: Follow On Task activity formatter fields

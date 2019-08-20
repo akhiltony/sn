@@ -1,5 +1,6 @@
 ---
 title: "com.snc.time_card.start_day"
+description: "Property"
 ---
 
 Description: (DEPRECATED: This property has been deprecated and replaced by 'Week starts on' field in Time Sheet Policies) </br>

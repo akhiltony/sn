@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.live_agent_handoff_error_message"
+description: "Property"
 ---
 
 Description: Error message when no live agent has been set up

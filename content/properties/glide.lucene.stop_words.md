@@ -1,5 +1,6 @@
 ---
 title: "glide.lucene.stop_words"
+description: "Property"
 ---
 
 Description: Stop words, ignored when text indexing and searching

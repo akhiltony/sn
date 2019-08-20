@@ -1,5 +1,6 @@
 ---
 title: "css.$nav-hr-color"
+description: "Property"
 ---
 
 Description: Navigation separator color

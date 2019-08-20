@@ -1,5 +1,6 @@
 ---
 title: "glide.db.pooler.connections.max"
+description: "Property"
 ---
 
 Description: 

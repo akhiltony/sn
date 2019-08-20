@@ -1,5 +1,6 @@
 ---
 title: "css.button.action.border.width"
+description: "Property"
 ---
 
 Description: Button border width:

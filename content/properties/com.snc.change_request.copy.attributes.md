@@ -1,5 +1,6 @@
 ---
 title: "com.snc.change_request.copy.attributes"
+description: "Property"
 ---
 
 Description: List of attributes (comma-separated) that will be copied from the originating change

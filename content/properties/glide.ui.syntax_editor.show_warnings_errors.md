@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.syntax_editor.show_warnings_errors"
+description: "Property"
 ---
 
 Description: Show/Hide static analysis warnings and errors on the editor (default is HIDE_ALL)

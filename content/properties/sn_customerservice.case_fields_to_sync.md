@@ -1,5 +1,6 @@
 ---
 title: "sn_customerservice.case_fields_to_sync"
+description: "Property"
 ---
 
 Description: Comma-separated list of fields that synchronize from parent case to child cases

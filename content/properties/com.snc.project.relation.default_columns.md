@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.relation.default_columns"
+description: "Property"
 ---
 
 Description: Console JSON Default Relation Columns

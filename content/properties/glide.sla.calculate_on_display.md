@@ -1,5 +1,6 @@
 ---
 title: "glide.sla.calculate_on_display"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Refresh Task SLAs when a Task form is displayed<br/></span>

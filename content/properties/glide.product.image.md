@@ -1,5 +1,6 @@
 ---
 title: "glide.product.image"
+description: "Property"
 ---
 
 Description: Banner image

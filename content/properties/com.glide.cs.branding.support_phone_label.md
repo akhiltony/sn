@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.support_phone_label"
+description: "Property"
 ---
 
 Description: Call

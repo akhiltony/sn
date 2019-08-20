@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.report.datasets.default_colors"
+description: "Property"
 ---
 
 Description: Default Color list name for each dataset

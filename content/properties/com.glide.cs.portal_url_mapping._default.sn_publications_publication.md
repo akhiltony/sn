@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.portal_url_mapping._default.sn_publications_publication"
+description: "Property"
 ---
 
 Description: Default fallback for publications URL Mapping

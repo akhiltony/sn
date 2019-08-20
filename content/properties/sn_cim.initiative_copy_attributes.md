@@ -1,5 +1,6 @@
 ---
 title: "sn_cim.initiative_copy_attributes"
+description: "Property"
 ---
 
 Description: List of attributes (comma-separated) that will be copied from the originating improvement initiative.

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.chart.default.colors"
+description: "Property"
 ---
 
 Description: 

@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.item.cannot_show_price"
+description: "Property"
 ---
 
 Description: List of class names for catalog items that do not show the price in listings

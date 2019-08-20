@@ -1,5 +1,6 @@
 ---
 title: "com.snc.on_call_rotation.pto.configuration"
+description: "Property"
 ---
 
 Description: This property governs if an On-Call user (Not "admin, rota_manager, group manager or rota_admin") is allowed to create PTO.

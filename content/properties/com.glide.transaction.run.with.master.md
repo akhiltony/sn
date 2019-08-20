@@ -1,5 +1,6 @@
 ---
 title: "com.glide.transaction.run.with.master"
+description: "Property"
 ---
 
 Description: PLEASE CONTACT DEV-INTERFACES TEAM BEFORE CHANGING. More info at KB0683357

@@ -1,5 +1,6 @@
 ---
 title: "sa.service_tree.MAX_ITEMS_TO_DISPLAY"
+description: "Property"
 ---
 
 Description: Limit of amount of services that displayed on Services Tree on maps.

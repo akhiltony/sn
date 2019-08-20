@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.enable_order_now"
+description: "Property"
 ---
 
 Description: Determines whether 'Order Now' button exhibits new or old behaviour.

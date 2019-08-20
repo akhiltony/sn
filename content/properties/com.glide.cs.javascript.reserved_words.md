@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.javascript.reserved_words"
+description: "Property"
 ---
 
 Description: Reserved words in JavaScript that should not be used as Var names or QVar names

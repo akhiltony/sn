@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_hpux_server_activity.fields"
+description: "Property"
 ---
 
 Description: HPUX Server activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.rm_scrum_task_activity.fields"
+description: "Property"
 ---
 
 Description: Scrum Task activity formatter fields

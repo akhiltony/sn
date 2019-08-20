@@ -1,5 +1,6 @@
 ---
 title: "glide.session.max.concurrent.transactions"
+description: "Property"
 ---
 
 Description: PLEASE CONTACT DEV-INTERFACES TEAM BEFORE CHANGING. More info at KB0683357

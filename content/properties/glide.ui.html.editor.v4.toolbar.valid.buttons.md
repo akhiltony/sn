@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.html.editor.v4.toolbar.valid.buttons"
+description: "Property"
 ---
 
 Description: A valid (supported) button list for html fields using TinyMCE

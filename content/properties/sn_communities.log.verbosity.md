@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.log.verbosity"
+description: "Property"
 ---
 
 Description: Code Search log verbosity for Community project. Set to "1" representing info by default. Options are:

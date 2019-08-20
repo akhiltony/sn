@@ -102,11 +102,12 @@ jQuery(document).ready(function() {
 
     baseurl = baseurl.endsWith('/')?baseurl:baseurl+'/';
 
-    jQuery('#sidebar .category-icon').on('click', function() {
+    /*jQuery('#sidebar .category-icon').on('click', function() {
         $( this ).toggleClass("fa-angle-down fa-angle-right") ;
         $( this ).parent().parent().children('ul').toggle() ;
         return false;
-    });
+    });  
+    */
 
 
     jQuery('[data-clear-history-toggle]').on('click', function() {

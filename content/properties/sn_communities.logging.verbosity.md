@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.logging.verbosity"
+description: "Property"
 ---
 
 Description: Code Search log verbosity. Set to "error" by default. Options are:

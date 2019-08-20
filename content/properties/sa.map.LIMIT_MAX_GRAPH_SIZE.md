@@ -1,5 +1,6 @@
 ---
 title: "sa.map.LIMIT_MAX_GRAPH_SIZE"
+description: "Property"
 ---
 
 Description: Enable limitation of business service maps drawing by number of nodes and edges.

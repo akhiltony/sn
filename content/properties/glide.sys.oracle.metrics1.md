@@ -1,5 +1,6 @@
 ---
 title: "glide.sys.oracle.metrics1"
+description: "Property"
 ---
 
 Description: Metrics wanted from the Oracle server:

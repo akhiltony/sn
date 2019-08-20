@@ -1,5 +1,6 @@
 ---
 title: "sa.running_process.exclude_list"
+description: "Property"
 ---
 
 Description: Comma separated list of CI types that should be ignored when adding running_process information to discovery result.

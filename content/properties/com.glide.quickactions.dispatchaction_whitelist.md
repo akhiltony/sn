@@ -1,5 +1,6 @@
 ---
 title: "com.glide.quickactions.dispatchaction_whitelist"
+description: "Property"
 ---
 
 Description: Comma-separated list of action types that can be dispatched by quickactions and their parameters.

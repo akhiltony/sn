@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.html.editor.v4.enabled_plugins"
+description: "Property"
 ---
 
 Description: HTML editor client-side plugins enabled (space delimited). Removing plugins could cause undesirable side-effects.

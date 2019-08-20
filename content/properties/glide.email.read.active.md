@@ -1,5 +1,6 @@
 ---
 title: "glide.email.read.active"
+description: "Property"
 ---
 
 Description: Email receiving enabled

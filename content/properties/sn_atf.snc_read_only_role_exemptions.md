@@ -1,5 +1,6 @@
 ---
 title: "sn_atf.snc_read_only_role_exemptions"
+description: "Property"
 ---
 
 Description: 

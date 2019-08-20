@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_unix_server_activity.fields"
+description: "Property"
 ---
 
 Description: UNIX Server activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.m.module_icons"
+description: "Property"
 ---
 
 Description: Icons available for  home page modules.

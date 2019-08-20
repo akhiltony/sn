@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.kb_knowledge_activity.fields"
+description: "Property"
 ---
 
 Description: Knowledge activity formatter fields

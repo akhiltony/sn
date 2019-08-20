@@ -1,5 +1,6 @@
 ---
 title: "com.snc.sla.maximum_duration"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Maximum duration allowed in SLA Definition<br/></span>

@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.knowledge_base_id"
+description: "Property"
 ---
 
 Description: All the questions that are created from community will be placed into this knowledge base

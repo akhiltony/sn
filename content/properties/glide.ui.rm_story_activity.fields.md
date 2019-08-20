@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.rm_story_activity.fields"
+description: "Property"
 ---
 
 Description: Story activity formatter fields

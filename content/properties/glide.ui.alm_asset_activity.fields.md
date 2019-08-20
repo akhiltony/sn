@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.alm_asset_activity.fields"
+description: "Property"
 ---
 
 Description: Asset activity formatter fields

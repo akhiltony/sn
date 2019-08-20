@@ -1,5 +1,6 @@
 ---
 title: "app.service.persist.list.state"
+description: "Property"
 ---
 
 Description: Enable feature to save and restore list state for Application services list view.

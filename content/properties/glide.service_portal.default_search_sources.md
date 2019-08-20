@@ -1,5 +1,6 @@
 ---
 title: "glide.service_portal.default_search_sources"
+description: "Property"
 ---
 
 Description: Comma-separated array of sys_ids for the default SP Search Sources. Will be used if a search page is used without a portal, or if a portal does not define it's own search sources.

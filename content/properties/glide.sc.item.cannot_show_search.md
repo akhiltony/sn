@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.item.cannot_show_search"
+description: "Property"
 ---
 
 Description: List of class names for catalog items that do not have the search field displayed

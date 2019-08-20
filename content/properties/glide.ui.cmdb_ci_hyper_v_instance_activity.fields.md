@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_hyper_v_instance_activity.fields"
+description: "Property"
 ---
 
 Description: Hyper-V Virtual Machine Instance activity formatter fields

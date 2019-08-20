@@ -1,5 +1,6 @@
 ---
 title: "sn_apm.endRangeOfTPMLifecycle"
+description: "Property"
 ---
 
 Description: Number of years ahead to current day to be considered for displaying software model phases on TPM life cycle.

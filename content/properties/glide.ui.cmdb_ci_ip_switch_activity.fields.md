@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_ip_switch_activity.fields"
+description: "Property"
 ---
 
 Description: IP Switch activity formatter fields

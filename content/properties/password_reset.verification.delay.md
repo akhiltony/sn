@@ -1,5 +1,6 @@
 ---
 title: "password_reset.verification.delay"
+description: "Property"
 ---
 
 Description: Delay, in milliseconds, between identification or verification processing.

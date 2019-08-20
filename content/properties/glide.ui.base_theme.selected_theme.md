@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.base_theme.selected_theme"
+description: "Property"
 ---
 
 Description: Selected base theme 

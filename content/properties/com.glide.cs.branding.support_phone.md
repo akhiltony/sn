@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.support_phone"
+description: "Property"
 ---
 
 Description: Phone Number

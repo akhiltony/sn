@@ -1,5 +1,6 @@
 ---
 title: "glide.ts.widget.top_search_tables"
+description: "Property"
 ---
 
 Description: Comma-separated list of table names which will have home page Top Searches widgets available for them

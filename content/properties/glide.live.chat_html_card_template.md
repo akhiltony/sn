@@ -1,5 +1,6 @@
 ---
 title: "glide.live.chat_html_card_template"
+description: "Property"
 ---
 
 Description: 

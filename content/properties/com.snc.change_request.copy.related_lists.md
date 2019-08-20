@@ -1,5 +1,6 @@
 ---
 title: "com.snc.change_request.copy.related_lists"
+description: "Property"
 ---
 
 Description: Related lists (comma-separated) that will be copied from the originating change

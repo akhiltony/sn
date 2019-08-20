@@ -1,5 +1,6 @@
 ---
 title: "glide.sys.upgrade_script"
+description: "Property"
 ---
 
 Description: Upgrade script.

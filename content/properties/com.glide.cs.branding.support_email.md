@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.support_email"
+description: "Property"
 ---
 
 Description: Email Address

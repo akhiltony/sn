@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.incident_activity.fields"
+description: "Property"
 ---
 
 Description: List of fields (comma-separated) that appear in the activity formatter for Incident.

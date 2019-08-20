@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.sn_coaching_assessment_activity.fields"
+description: "Property"
 ---
 
 Description: Coaching Assessment activity formatter fields

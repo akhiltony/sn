@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.kb_feedback_task_activity.fields"
+description: "Property"
 ---
 
 Description: Knowledge Feedback Task activity formatter fields

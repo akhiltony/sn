@@ -1,5 +1,6 @@
 ---
 title: "com.snc.pa.scorecard.breakdown.chart.name_max_length"
+description: "Property"
 ---
 
 Description: Maximum number of element names on the legend in a breakdown widget. Default 27.

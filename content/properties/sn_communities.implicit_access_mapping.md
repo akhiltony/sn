@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.implicit_access_mapping"
+description: "Property"
 ---
 
 Description: This will be used in the Community Permission Calculation Scripts to implicitly assign access to users based on the access they have.

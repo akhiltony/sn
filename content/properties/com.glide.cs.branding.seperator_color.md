@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.seperator_color"
+description: "Property"
 ---
 
 Description: Separator

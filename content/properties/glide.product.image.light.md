@@ -1,5 +1,6 @@
 ---
 title: "glide.product.image.light"
+description: "Property"
 ---
 
 Description: Banner image for UI16

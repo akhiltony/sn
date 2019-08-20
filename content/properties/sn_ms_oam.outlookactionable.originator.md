@@ -1,5 +1,6 @@
 ---
 title: "sn_ms_oam.outlookactionable.originator"
+description: "Property"
 ---
 
 Description: 

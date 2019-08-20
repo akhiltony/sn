@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_storage_switch_activity.fields"
+description: "Property"
 ---
 
 Description: Storage Switch activity formatter fields

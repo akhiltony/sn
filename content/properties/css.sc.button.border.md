@@ -1,5 +1,6 @@
 ---
 title: "css.sc.button.border"
+description: "Property"
 ---
 
 Description: Service Catalog button border

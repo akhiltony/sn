@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.welcome_message"
+description: "Property"
 ---
 
 Description: Welcome message

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.nav.favorite.url.param_blacklist"
+description: "Property"
 ---
 
 Description: URL Parameters excluded from similar URL checks.

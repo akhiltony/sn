@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.enable_session_cache"
+description: "Property"
 ---
 
 Description: This flag is used to decide whether to use the session caching for the Community Application.

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.fd.excluded_types"
+description: "Property"
 ---
 
 Description: Field types excluded from the Form Designer for simplicity (comma separated, no spaces)

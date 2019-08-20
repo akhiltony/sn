@@ -1,5 +1,6 @@
 ---
 title: "sn_customerservice.contact_role_assignment"
+description: "Property"
 ---
 
 Description: External roles that can be assigned to contacts via Customer portal (comma separated role names)

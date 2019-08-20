@@ -1,5 +1,6 @@
 ---
 title: "glide.workflow.catch_activity_preprocessing_errors"
+description: "Property"
 ---
 
 Description: Use this to catch errors thrown during the pre-processing stage of workflow activities. 

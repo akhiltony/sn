@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.suggest.enable_spell_check"
+description: "Property"
 ---
 
 Description: Enable spell check for Virtual Agent Suggest

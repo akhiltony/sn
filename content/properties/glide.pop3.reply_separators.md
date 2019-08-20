@@ -1,5 +1,6 @@
 ---
 title: "glide.pop3.reply_separators"
+description: "Property"
 ---
 
 Description: Discard everything below this text if found in a reply body (comma separated, case sensitive)

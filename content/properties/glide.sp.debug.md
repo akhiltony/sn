@@ -1,5 +1,6 @@
 ---
 title: "glide.sp.debug"
+description: "Property"
 ---
 
 Description: 

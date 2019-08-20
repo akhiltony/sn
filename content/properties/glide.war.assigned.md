@@ -1,5 +1,6 @@
 ---
 title: "glide.war.assigned"
+description: "Property"
 ---
 
 Description: Assigned version

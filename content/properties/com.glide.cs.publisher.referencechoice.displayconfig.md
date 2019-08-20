@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.publisher.referencechoice.displayconfig"
+description: "Property"
 ---
 
 Description: 

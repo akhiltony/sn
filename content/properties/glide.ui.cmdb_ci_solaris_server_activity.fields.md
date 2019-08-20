@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_solaris_server_activity.fields"
+description: "Property"
 ---
 
 Description: Solaris Server activity formatter fields

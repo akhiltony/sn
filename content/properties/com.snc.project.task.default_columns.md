@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.task.default_columns"
+description: "Property"
 ---
 
 Description: Console JSON Default Task Columns

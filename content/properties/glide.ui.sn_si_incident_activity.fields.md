@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.sn_si_incident_activity.fields"
+description: "Property"
 ---
 
 Description: Security Incident activity formatter fields

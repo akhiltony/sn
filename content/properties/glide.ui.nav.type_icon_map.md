@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.nav.type_icon_map"
+description: "Property"
 ---
 
 Description: Icon lookup for module types for when applications are favorited.

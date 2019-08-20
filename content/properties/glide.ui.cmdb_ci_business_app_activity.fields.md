@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_business_app_activity.fields"
+description: "Property"
 ---
 
 Description: Business Application activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.error_message"
+description: "Property"
 ---
 
 Description: Generic Error Message

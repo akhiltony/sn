@@ -1,5 +1,6 @@
 ---
 title: "glide.escalation.sticky"
+description: "Property"
 ---
 
 Description: Assign escalations only at ticket creation (if unchecked,

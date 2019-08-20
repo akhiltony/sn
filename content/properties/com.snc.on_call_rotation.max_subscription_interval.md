@@ -1,5 +1,6 @@
 ---
 title: "com.snc.on_call_rotation.max_subscription_interval"
+description: "Property"
 ---
 
 Description: This property stores a value in days.

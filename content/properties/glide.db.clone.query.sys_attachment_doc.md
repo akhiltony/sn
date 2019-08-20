@@ -1,5 +1,6 @@
 ---
 title: "glide.db.clone.query.sys_attachment_doc"
+description: "Property"
 ---
 
 Description: Generated query to find images related to the theme of the system.

@@ -1,5 +1,6 @@
 ---
 title: "sn_communities.portal_default_config"
+description: "Property"
 ---
 
 Description: Community portal default config. Used in community specific widgets. It is a JSON value.

@@ -1,5 +1,6 @@
 ---
 title: "sn_outlook_addin.create_incident_cat_item"
+description: "Property"
 ---
 
 Description: Provide sys_id of the record producer for create incident action from Outlook Add-In

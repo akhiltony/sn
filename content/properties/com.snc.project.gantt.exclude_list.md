@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.gantt.exclude_list"
+description: "Property"
 ---
 
 Description: Specify the entity types(table names) comma delimited  to be excluded in the Project Gantt chart. 

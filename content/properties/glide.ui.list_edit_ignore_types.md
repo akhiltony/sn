@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.list_edit_ignore_types"
+description: "Property"
 ---
 
 Description: List of element types (comma-separated) that cannot be edited in the list editor:

@@ -1,5 +1,6 @@
 ---
 title: "css.version"
+description: "Property"
 ---
 
 Description: CSS Last Modified

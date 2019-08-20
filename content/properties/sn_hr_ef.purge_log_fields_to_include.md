@@ -1,5 +1,6 @@
 ---
 title: "sn_hr_ef.purge_log_fields_to_include"
+description: "Property"
 ---
 
 Description: These fields will be included in the purge logs if enabled.

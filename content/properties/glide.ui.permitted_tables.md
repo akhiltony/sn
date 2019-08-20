@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.permitted_tables"
+description: "Property"
 ---
 
 Description: List of system tables (beginning with "sys_", comma separated), that are reportable. By default, system tables are not reportable.

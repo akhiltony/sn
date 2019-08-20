@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.topic_confirmation_message"
+description: "Property"
 ---
 
 Description: Topic Confirmation Message

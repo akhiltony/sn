@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.closing_message"
+description: "Property"
 ---
 
 Description: Closing Message

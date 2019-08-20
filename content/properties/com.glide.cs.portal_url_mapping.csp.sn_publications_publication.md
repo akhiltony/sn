@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.portal_url_mapping.csp.sn_publications_publication"
+description: "Property"
 ---
 
 Description: CSP Publications Mapping URL

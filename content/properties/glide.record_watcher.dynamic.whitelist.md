@@ -1,5 +1,6 @@
 ---
 title: "glide.record_watcher.dynamic.whitelist"
+description: "Property"
 ---
 
 Description: Provides a whitelist of <x> where <field>DYNAMIC<x> predicates are accepted as responder conditions.

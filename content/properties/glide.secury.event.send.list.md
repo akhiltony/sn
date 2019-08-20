@@ -1,5 +1,6 @@
 ---
 title: "glide.secury.event.send.list"
+description: "Property"
 ---
 
 Description: Defines a list of comma-separated events that should be sent to Usage Analytics when processing sysevent table.

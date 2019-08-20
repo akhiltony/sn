@@ -1,5 +1,6 @@
 ---
 title: "service_watch.implied_match.endpoint.black_list"
+description: "Property"
 ---
 
 Description: Blacklist of end point types that should ignore implied match(comma separated)

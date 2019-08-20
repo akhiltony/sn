@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_netgear_activity.fields"
+description: "Property"
 ---
 
 Description: Network Gear activity formatter fields

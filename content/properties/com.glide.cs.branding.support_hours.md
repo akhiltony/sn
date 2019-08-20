@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.branding.support_hours"
+description: "Property"
 ---
 
 Description: Support Hours

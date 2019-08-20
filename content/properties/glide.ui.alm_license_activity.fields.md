@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.alm_license_activity.fields"
+description: "Property"
 ---
 
 Description: Software License activity formatter fields

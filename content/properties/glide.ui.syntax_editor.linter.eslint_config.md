@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.syntax_editor.linter.eslint_config"
+description: "Property"
 ---
 
 Description: ESlint configuration

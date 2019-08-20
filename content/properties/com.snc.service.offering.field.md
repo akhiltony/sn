@@ -1,5 +1,6 @@
 ---
 title: "com.snc.service.offering.field"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Specify the field from Task used to match with Service Offerings<br/></span>

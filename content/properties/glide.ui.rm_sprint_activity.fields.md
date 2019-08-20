@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.rm_sprint_activity.fields"
+description: "Property"
 ---
 
 Description: Sprint activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.url.external.top_level_domains"
+description: "Property"
 ---
 
 Description: A comma separated list of top level domains that are used to determin if a string of text may be a website address. The default list is based on the top 200 (or so) common top level domains from: http://research.domaintools.com/statistics/tld-counts/

@@ -1,5 +1,6 @@
 ---
 title: "css.base.color"
+description: "Property"
 ---
 
 Description: Banner and list caption background color

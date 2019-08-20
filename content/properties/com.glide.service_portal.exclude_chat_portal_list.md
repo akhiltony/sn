@@ -1,5 +1,6 @@
 ---
 title: "com.glide.service_portal.exclude_chat_portal_list"
+description: "Property"
 ---
 
 Description: 

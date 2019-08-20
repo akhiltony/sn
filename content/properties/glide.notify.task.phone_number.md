@@ -1,5 +1,6 @@
 ---
 title: "glide.notify.task.phone_number"
+description: "Property"
 ---
 
 Description: Notify phone number used for sending SMS-s and starting conference calls from any record that belongs to the task table or table that extends task table.

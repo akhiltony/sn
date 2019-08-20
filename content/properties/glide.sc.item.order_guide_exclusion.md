@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.item.order_guide_exclusion"
+description: "Property"
 ---
 
 Description: List of class names for catalog items that cannot be included in an order guide

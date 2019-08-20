@@ -1,5 +1,6 @@
 ---
 title: "com.snc.incident.clone_fields_on_reopen"
+description: "Property"
 ---
 
 Description: List of fields (comma-separated) to copy from the original incident when an incident is reopened by email.

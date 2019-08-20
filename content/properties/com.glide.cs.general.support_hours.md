@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.support_hours"
+description: "Property"
 ---
 
 Description: General Support Hours

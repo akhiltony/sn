@@ -1,5 +1,6 @@
 ---
 title: "glide.smtp.port"
+description: "Property"
 ---
 
 Description: SMTP server port (25)

@@ -1,5 +1,6 @@
 ---
 title: "glide.update.ignore.names"
+description: "Property"
 ---
 
 Description: Properties to ignore when transferring the update directory:

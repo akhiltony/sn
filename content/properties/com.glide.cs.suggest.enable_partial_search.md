@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.suggest.enable_partial_search"
+description: "Property"
 ---
 
 Description: Enable partial keyword search for Virtual Agent Suggest

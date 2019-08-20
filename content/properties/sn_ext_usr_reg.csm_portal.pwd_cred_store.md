@@ -1,5 +1,6 @@
 ---
 title: "sn_ext_usr_reg.csm_portal.pwd_cred_store"
+description: "Property"
 ---
 
 Description: SysID for credential store

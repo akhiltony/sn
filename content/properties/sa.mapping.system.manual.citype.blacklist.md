@@ -1,5 +1,6 @@
 ---
 title: "sa.mapping.system.manual.citype.blacklist"
+description: "Property"
 ---
 
 Description: List of classes not allowed to be added manually to application service 

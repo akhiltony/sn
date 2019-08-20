@@ -1,5 +1,6 @@
 ---
 title: "sncCommonMap.RENDER_FULL_LABELS"
+description: "Property"
 ---
 
 Description: Render full labels on CIs on map. 

@@ -1,5 +1,6 @@
 ---
 title: "sa.traffic_based_discovery.blacklist"
+description: "Property"
 ---
 
 Description: Generic apps that should be excluded from traffic based discovery

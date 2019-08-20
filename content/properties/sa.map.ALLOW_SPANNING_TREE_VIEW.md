@@ -1,5 +1,6 @@
 ---
 title: "sa.map.ALLOW_SPANNING_TREE_VIEW"
+description: "Property"
 ---
 
 Description: Global flag to allow or disable spanning tree view for maps.

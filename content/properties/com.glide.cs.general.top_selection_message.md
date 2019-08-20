@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.top_selection_message"
+description: "Property"
 ---
 
 Description: Top selection message

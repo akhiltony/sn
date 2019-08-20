@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.portal_url_mapping.csm._default"
+description: "Property"
 ---
 
 Description: CSM Default Record Mapping URL

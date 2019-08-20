@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.rich_converter_case_html"
+description: "Property"
 ---
 
 Description: null

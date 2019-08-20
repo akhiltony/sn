@@ -1,5 +1,6 @@
 ---
 title: "instance_name"
+description: "Property"
 ---
 
 Description: Instance name

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.sn_cim_register_activity.fields"
+description: "Property"
 ---
 
 Description: Improvement Initiative activity formatter fields

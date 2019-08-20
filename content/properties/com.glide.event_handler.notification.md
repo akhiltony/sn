@@ -1,5 +1,6 @@
 ---
 title: "com.glide.event_handler.notification"
+description: "Property"
 ---
 
 Description: Determines what action handler processes the notifications in the system.

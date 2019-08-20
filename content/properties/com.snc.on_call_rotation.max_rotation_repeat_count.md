@@ -1,5 +1,6 @@
 ---
 title: "com.snc.on_call_rotation.max_rotation_repeat_count"
+description: "Property"
 ---
 
 Description: This property stores a value in days.

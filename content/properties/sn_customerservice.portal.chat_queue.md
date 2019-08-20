@@ -1,5 +1,6 @@
 ---
 title: "sn_customerservice.portal.chat_queue"
+description: "Property"
 ---
 
 Description: 

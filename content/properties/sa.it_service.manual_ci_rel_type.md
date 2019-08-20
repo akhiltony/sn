@@ -1,5 +1,6 @@
 ---
 title: "sa.it_service.manual_ci_rel_type"
+description: "Property"
 ---
 
 Description: The sys_id of the default relation type to be added  between source and target when adding CI manually to application service

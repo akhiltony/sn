@@ -1,5 +1,6 @@
 ---
 title: "glide.graphql.property.whitelist"
+description: "Property"
 ---
 
 Description: whitelist for graphql properties datasource

@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.rm_epic_activity.fields"
+description: "Property"
 ---
 
 Description: Epic activity formatter fields

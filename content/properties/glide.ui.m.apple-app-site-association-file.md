@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.m.apple-app-site-association-file"
+description: "Property"
 ---
 
 Description: 

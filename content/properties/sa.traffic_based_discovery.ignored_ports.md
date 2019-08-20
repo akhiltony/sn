@@ -1,5 +1,6 @@
 ---
 title: "sa.traffic_based_discovery.ignored_ports"
+description: "Property"
 ---
 
 Description: Ports to ignore when found by traffic based discovered.

@@ -1,5 +1,6 @@
 ---
 title: "subscription.custom_table.enforce_entitlement"
+description: "Property"
 ---
 
 Description: Enforce custom table entitlement: If this property is set

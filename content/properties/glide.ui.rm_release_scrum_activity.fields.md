@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.rm_release_scrum_activity.fields"
+description: "Property"
 ---
 
 Description: Scrum release activity formatter fields

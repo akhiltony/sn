@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.change_request_activity.fields"
+description: "Property"
 ---
 
 Description: Change Request activity formatter fields

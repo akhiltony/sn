@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_ec2_instance_activity.fields"
+description: "Property"
 ---
 
 Description: EC2 Virtual Machine Instance activity formatter fields

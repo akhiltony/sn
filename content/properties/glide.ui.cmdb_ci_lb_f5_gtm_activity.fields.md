@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_lb_f5_gtm_activity.fields"
+description: "Property"
 ---
 
 Description: F5 BigIP GTM activity formatter fields

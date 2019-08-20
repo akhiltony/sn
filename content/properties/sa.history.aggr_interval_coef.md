@@ -1,5 +1,6 @@
 ---
 title: "sa.history.aggr_interval_coef"
+description: "Property"
 ---
 
 Description: Coefficient of aggregation interval. 

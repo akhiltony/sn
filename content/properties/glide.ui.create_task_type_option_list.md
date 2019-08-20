@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.create_task_type_option_list"
+description: "Property"
 ---
 
 Description: A list of task types that are available in the UI to convert checklist items into tasks.

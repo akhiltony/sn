@@ -1,5 +1,6 @@
 ---
 title: "glide.product.description.style"
+description: "Property"
 ---
 
 Description: Style for product description next to banner.

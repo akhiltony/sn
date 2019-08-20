@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.audit_deleted_tables"
+description: "Property"
 ---
 
 Description: List of system tables (beginning with "sys_", comma separated) that will have the delete audited. By default, system tables do not have the delete audited.

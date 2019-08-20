@@ -1,5 +1,6 @@
 ---
 title: "sa.map.MAX_EDGES_FOR_LAYOUT"
+description: "Property"
 ---
 
 Description: Maximal number of displayable edges on business service map. Maps with larger values will not be displayed. 

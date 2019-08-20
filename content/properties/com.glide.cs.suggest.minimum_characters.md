@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.suggest.minimum_characters"
+description: "Property"
 ---
 
 Description: Minimum suggest characters needed for subset search in Virtual Agent. 

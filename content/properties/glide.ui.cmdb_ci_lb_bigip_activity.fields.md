@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.cmdb_ci_lb_bigip_activity.fields"
+description: "Property"
 ---
 
 Description: F5 Big-IP activity formatter fields

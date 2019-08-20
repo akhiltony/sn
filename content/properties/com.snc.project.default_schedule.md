@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.default_schedule"
+description: "Property"
 ---
 
 Description: Default Project Schedule

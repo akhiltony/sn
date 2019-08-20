@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.system.default_columns"
+description: "Property"
 ---
 
 Description: Console JSON System Default Columns

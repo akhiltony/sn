@@ -1,5 +1,6 @@
 ---
 title: "x_snc_ghc.oauth_entity_profile_id"
+description: "Property"
 ---
 
 Description: SysID of the OAuth Entity Profile used for retrieving tokens. 

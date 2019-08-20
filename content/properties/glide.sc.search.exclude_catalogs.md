@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.search.exclude_catalogs"
+description: "Property"
 ---
 
 Description: List of catalog sys_ids (comma-separated) that are excluded from catalog item search.

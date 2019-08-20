@@ -1,5 +1,6 @@
 ---
 title: "com.snc.sla.calculation.percentage"
+description: "Property"
 ---
 
 Description: <span style="font-weight:bold;font-size: larger">Percentage at which scheduled jobs stop refreshing Task SLA timings<br/></span>

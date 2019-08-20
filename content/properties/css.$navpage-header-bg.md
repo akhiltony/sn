@@ -1,5 +1,6 @@
 ---
 title: "css.$navpage-header-bg"
+description: "Property"
 ---
 
 Description: Header background color

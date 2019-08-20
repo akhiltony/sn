@@ -1,5 +1,6 @@
 ---
 title: "com.snc.project.loglevel"
+description: "Property"
 ---
 
 Description: Enable debugging of new project scripts. Script output is visible in console debugging, so you should also run the Debug Log module.

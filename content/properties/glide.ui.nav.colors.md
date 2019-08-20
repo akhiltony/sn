@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.nav.colors"
+description: "Property"
 ---
 
 Description: Colors available for the nav favorites.

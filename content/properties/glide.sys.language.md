@@ -1,5 +1,6 @@
 ---
 title: "glide.sys.language"
+description: "Property"
 ---
 
 Description: Default language for the system (two character values):

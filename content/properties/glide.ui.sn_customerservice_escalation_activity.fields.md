@@ -1,5 +1,6 @@
 ---
 title: "glide.ui.sn_customerservice_escalation_activity.fields"
+description: "Property"
 ---
 
 Description: Escalation activity formatter fields

@@ -1,5 +1,6 @@
 ---
 title: "glide.db.stats.threshold"
+description: "Property"
 ---
 
 Description: If "Log slow queries" property is true, log queries whose execution takes longer than the following

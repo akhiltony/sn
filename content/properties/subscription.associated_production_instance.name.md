@@ -1,5 +1,6 @@
 ---
 title: "subscription.associated_production_instance.name"
+description: "Property"
 ---
 
 Description: Name of the production instance that this instance is

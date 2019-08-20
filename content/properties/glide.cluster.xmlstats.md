@@ -1,5 +1,6 @@
 ---
 title: "glide.cluster.xmlstats"
+description: "Property"
 ---
 
 Description: XMLStats components to record in the cluster state record:

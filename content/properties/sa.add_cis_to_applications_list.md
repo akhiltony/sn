@@ -1,5 +1,6 @@
 ---
 title: "sa.add_cis_to_applications_list"
+description: "Property"
 ---
 
 Description: Only CIs extending cmdb_ci_appl are automaticlly added to list of applications

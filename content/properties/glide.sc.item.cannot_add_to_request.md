@@ -1,5 +1,6 @@
 ---
 title: "glide.sc.item.cannot_add_to_request"
+description: "Property"
 ---
 
 Description: List of class names for catalog items that cannot be added to an existing request

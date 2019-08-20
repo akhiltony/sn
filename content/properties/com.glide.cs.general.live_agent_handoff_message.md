@@ -1,5 +1,6 @@
 ---
 title: "com.glide.cs.general.live_agent_handoff_message"
+description: "Property"
 ---
 
 Description: Message to display when handing over to a live agent
