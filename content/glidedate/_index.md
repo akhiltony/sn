@@ -1,6 +1,4 @@
 ---
 title: GlideDate
-aliases: 
-- '/GlideDate/'
 ---
 This is the GlideDate object.  It's used less than the GlideDateTime object.

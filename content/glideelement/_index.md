@@ -1,10 +1,10 @@
 ---
 title: GlideElement
-aliases: 
-- '/GlideElement/'
 ---
 ...
 # What is GlideElement
+
+Here's the docs...
 
 [Docs](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.html)
 
