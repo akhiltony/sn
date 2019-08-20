@@ -1,7 +1,5 @@
 ---
 title: Jelly
-aliases: 
-- '/Jelly/'
 ---
 
 Apache's Jelly syntax is used to render forms, lists, UI pages, and many other things rendered in ServiceNow.
