@@ -8,8 +8,6 @@ aliases:
 
 [Docs](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/glideElement/concept/c_GlideElementScopedAPI.html)
 
-{{% children style="h3" depth="3" description="true"  %}}
-
 ## getChoices
 
 Retrieves the choice list for a field
