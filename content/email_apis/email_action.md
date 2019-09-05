@@ -1,34 +1,7 @@
 ---
-aliases:
-- '/email/'
-date: '2018-08-16 22:05:54 +0000'
-layout: page
-tags:
-- 'server-side-api'
-title: Email APIs
-url: '/email/'
+title: "email_action"
 ---
-
-# Email APIs
-
-## email
-
-| Property/Method | Description                         |
-|-----------------|-------------------------------------|
-| addAddress      | Type can be cc or bcc               |
-| setBody         | Override the body of the message    |
-| setFrom         | Override the sender address         |
-| setReplyTo      | Override the reply to address       |
-| setSubject      | Override the subject of the message |
-
-## template
-
-| Property/Method | Description                       |
-|-----------------|-----------------------------------|
-| print           | Outputs message to the email body |
-| space           | Outputs spaces to the email body  |
-
-## email\_action
+This is a GlideRecord object for the email notification(`sysevent_email_action`);
 
 | Property/Method            | Description                                                                                                                                     |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -99,30 +72,4 @@ url: '/email/'
 | sys\_version               | Notification Version                                                                                                                            |
 | template                   |                                                                                                                                                 |
 | type                       |                                                                                                                                                 |
-| weight                     | Used to decide which notification takes precedence when more than one qualifies                                                                 |
-
-## event
-
-| Property/Method      | Description                                      |
-|----------------------|--------------------------------------------------|
-| claimed\_by          | Cluster node that claimed this event             |
-| descriptive\_name    |                                                  |
-| instance             |                                                  |
-| name                 |                                                  |
-| parm1                |                                                  |
-| parm2                |                                                  |
-| process\_on          |                                                  |
-| processed            |                                                  |
-| processing\_duration | Time it took to process the event (milliseconds) |
-| queue                | Queue name for processor                         |
-| state                |                                                  |
-| sys\_created\_by     |                                                  |
-| sys\_created\_on     |                                                  |
-| sys\_id              |                                                  |
-| sys\_mod\_count      |                                                  |
-| sys\_updated\_by     |                                                  |
-| sys\_updated\_on     |                                                  |
-| table                |                                                  |
-| uri                  |                                                  |
-| user\_id             |                                                  |
-| user\_name           |                                                  |
+| weight                     | Used to decide which notification takes precedence when more than one qualifies               
