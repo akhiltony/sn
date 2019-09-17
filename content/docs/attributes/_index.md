@@ -21,4 +21,6 @@ menu:
     weight: 1
 ---
 
-## asdf
+## Attributes
+
+On the left are the two types of attributes, Field and Variable.
