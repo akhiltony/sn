@@ -3,7 +3,7 @@
 linktitle: GlideSystem
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
-
+aliases: ['/gs/']
 # Page metadata.
 title: GlideSystem
 date: "2018-09-09T00:00:00Z"
