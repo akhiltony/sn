@@ -71,6 +71,7 @@ Specifies the name of a JavaScript class (client-side) that creates the list for
   - AJAXReferenceCompleter
   - AJAXTableCompleter
   - AJAXReferenceChoice
+  
 ## ref_qual_elements
 Value: `field;field`\
 Target Variable: Lookup multiple choice,Lookup select box,List Collector
