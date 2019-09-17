@@ -103,9 +103,7 @@ sp;
 | [translateTemplate](#translatetemplate)                         | No         |
 | wait                                                            | No         |
 
-## Documented
-
-### canReadRecord
+## canReadRecord
 
 | Method                                                                                                                                 | Notes |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -125,7 +123,7 @@ $sp.canReadRecord(
 );
 ```
 
-### getCatalogItem
+## getCatalogItem
 
 | Method                                                                                                                            | Notes |
 |-----------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -145,7 +143,7 @@ data.sc_cat_item = $sp.getCatalogItem(
 );
 ```
 
-### getKBCategoryArticleSummaries
+## getKBCategoryArticleSummaries
 
 [getKBCategoryArticleSummaries(sys\_id, number,
 maxChars)](https://developer.servicenow.com/app.do#!/api_doc?v=kingston&id=GSPS-getKBCategoryArticleSummaries_S_N_N)
@@ -165,7 +163,7 @@ its subcategories.
 /* Line 15: */}
 ```
 
-### getDisplayValue
+## getDisplayValue
 
 [getDisplayValue(stringfield)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getDisplayValue_S)
 
@@ -177,7 +175,7 @@ its subcategories.
 data.sc_catalog_page = $sp.getDisplayValue("sc_catalog_page");
 ```
 
-### getField
+## getField
 
 [getField(GlideRecord, string
 field)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getField_GR_S)
@@ -192,7 +190,7 @@ fields.push($sp.getField(
 ));
 ```
 
-### getFields
+## getFields
 
 [getFields(GlideRecord, string
 fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getFields_GR_S)
@@ -207,7 +205,7 @@ var fields = $sp.getFields(
 );
 ```
 
-### getFieldsObject
+## getFieldsObject
 
 [getFieldsObject(GlideRecord, string
 fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getFieldsObject_GR_S)
@@ -223,7 +221,7 @@ t = $sp.getFieldsObject(
 );
 ```
 
-### getForm
+## getForm
 
 | Method                                                                                                                                | Notes |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -239,7 +237,7 @@ $sp.getForm("live_profile", data.liveProfileID);
 data.f = $sp.getForm(data.table, data.sys_id, data.query, data.view);
 ```
 
-### getListColumns
+## getListColumns
 
 [getListColumns(string table, string
 view)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getListColumns_S_S)
@@ -251,7 +249,7 @@ view)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-get
 data.fields = $sp.getListColumns(data.table, data.view);
 ```
 
-### getMenuHREF
+## getMenuHREF
 
 [getMenuHREF(GlideRecord)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getMenuHREF_GR)
 
@@ -261,7 +259,7 @@ data.fields = $sp.getListColumns(data.table, data.view);
 data.href = $sp.getMenuHREF(gr);
 ```
 
-### getMenuItems
+## getMenuItems
 
 [getMenuItems(string
 sys\_id)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getMenuItems_S)
@@ -272,7 +270,7 @@ sys\_id)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-
 data.menu.items = $sp.getMenuItems(menu_id);
 ```
 
-### getParameter
+## getParameter
 
 [getParameter(string)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getParameter_S)
 
@@ -282,7 +280,7 @@ data.menu.items = $sp.getMenuItems(menu_id);
 data.query = $sp.getParameter("query") || options.query;
 ```
 
-### getPortalRecord
+## getPortalRecord
 
 [getPortalRecord()](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getPortalRecord)
 
@@ -292,7 +290,7 @@ data.query = $sp.getParameter("query") || options.query;
 data.knowledgeBase = $sp.getPortalRecord().getValue("sqanda_knowledge_base");
 ```
 
-### getRecord
+## getRecord
 
 | Method                                                                                                       | Notes                                       |
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -322,7 +320,7 @@ var rec = $sp.getRecord(data.table, data.sys_id);
 This however doesnt work in scoped apps.
 ```
 
-### getRecordDisplayValues
+## getRecordDisplayValues
 
 [getRecordDisplayValues(object data, GlideRecord, string
 fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getRecordDispValues_O_GR_S)
@@ -334,7 +332,7 @@ fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-g
 $sp.getRecordDisplayValues(c, gr, 'picture');
 ```
 
-### getRecordElements
+## getRecordElements
 
 [getRecordElements(object data, GlideRecord, string
 fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getRecordElements_O_GR_S)
@@ -346,7 +344,7 @@ fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-g
 $sp.getRecordElements(record, gr, data.fields);
 ```
 
-### getRecordValues
+## getRecordValues
 
 [getRecordValues(object data, GlideRecord, string
 fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getRecordValues_O_GR_S)
@@ -358,7 +356,7 @@ fields)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-g
 $sp.getRecordValues(data, gr, 'title,description');
 ```
 
-### getStream
+## getStream
 
 [getStream(string table, string
 sys\_id)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getStream_S_S)
@@ -372,7 +370,7 @@ data.stream = $sp.getStream(data.table, data.sys_id);
 Note: This only returns the quantity of entries specified by the
 property, `glide.service_portal.stream_entry_limit`. Default is 100.
 
-### getUserInitials
+## getUserInitials
 
 [getUserInitials()](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getUserInitials)
 
@@ -380,7 +378,7 @@ property, `glide.service_portal.stream_entry_limit`. Default is 100.
 // Returns the user's initials as a string.
 ```
 
-### getValue
+## getValue
 
 [getValue(string
 field)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getValue_S)
@@ -392,7 +390,7 @@ field)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-ge
 data.sc_catalog = $sp.getValue('sc_catalogs') || $sp.getValue('sc_catalog');
 ```
 
-### getValues
+## getValues
 
 | Method                                                                                                                           | notes          |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------|
@@ -407,7 +405,7 @@ $sp.getValues(data, "color,glyph,kb_topic,title");
 $sp.getValues(data);
 ```
 
-### getWidget
+## getWidget
 
 [getWidget(string sys\_id/widget-id, object
 options)](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=r_GSPS-getWidget_S__O)
@@ -421,9 +419,7 @@ data.teamWidget = $sp.getWidget(
 );
 ```
 
-## Undocumented
-
-### mapUrlToSPUrl
+## mapUrlToSPUrl
 
 [mapUrlToSPUrl()](//.service-now.com/sys_script_include_list.do?sysparm_query=sys_id=3647c37253221200b0b0547cedc587fd)
 
@@ -433,7 +429,7 @@ data.teamWidget = $sp.getWidget(
 /* Line 100: */        returnUrl = spUrl ? this.portal + "?" + spUrl : redirectURL;
 ```
 
-### isServicePortalURL
+## isServicePortalURL
 
 [isServicePortalURL()](//.service-now.com/sys_script_include_list.do?sysparm_query=sys_id=3647c37253221200b0b0547cedc587fd)
 
@@ -446,7 +442,7 @@ data.teamWidget = $sp.getWidget(
 /* Line 70: */          return;
 ```
 
-### translateTemplate
+## translateTemplate
 
 [translateTemplate()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=fa20ec02cb31020000f8d856634c9ce9)
 
@@ -456,7 +452,7 @@ data.teamWidget = $sp.getWidget(
 /* Line 29: */      }
 ```
 
-### stripHTML
+## stripHTML
 
 [stripHTML()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=04b1cc07c3231200e44574e1c1d3ae96)
 
@@ -466,7 +462,7 @@ data.teamWidget = $sp.getWidget(
 /* Line 23: */  });
 ```
 
-### getRelatedList
+## getRelatedList
 
 [getRelatedList()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=cf1a5153cb21020000f8d856634c9c3c)
 
@@ -474,7 +470,7 @@ data.teamWidget = $sp.getWidget(
 /* Line 1:*/ data.slides = $sp.getRelatedList('sp_carousel_slide','carousel');
 ```
 
-### getGuide
+## getGuide
 
 [getGuide()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=480ca054db03320064301150f0b8f545)
 
@@ -484,7 +480,7 @@ data.teamWidget = $sp.getWidget(
 /*Line 154:*/   if (data.sc_cat_item.category) {
 ```
 
-### getKBRecord
+## getKBRecord
 
 [getKBRecord()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=7d903b52cb30020000f8d856634c9ce3)
 
@@ -495,7 +491,7 @@ data.teamWidget = $sp.getWidget(
 var z = $sp.getKBRecord();
 ```
 
-### getKBCount
+## getKBCount
 
 [getKBCount(string
 sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=ee307070d7201200a9addd173e24d4da)
@@ -506,7 +502,7 @@ sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=ee307070d720
 var kbCount = $sp.getKBCount(data.kb);
 ```
 
-### getKBCategoryArticles
+## getKBCategoryArticles
 
 [getKBCategoryArticles(string
 sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=122ac7f0d7101200a9addd173e24d411)
@@ -519,7 +515,7 @@ sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=122ac7f0d710
 var articles = $sp.getKBCategoryArticles(t.getUniqueValue());
 ```
 
-### getKBTopicArticles
+## getKBTopicArticles
 
 [getKBTopicArticles(string
 topic)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=35c51f56d7f33100a9ad1e173e24d4b1)
@@ -530,7 +526,7 @@ topic)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=35c51f56d7f331
 data.items = $sp.getKBTopicArticles(data.kb_topic);
 ```
 
-### getKBTopCategoryID
+## getKBTopCategoryID
 
 [getKBTopCategoryID(string
 sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=c254be50d7201200a9addd173e24d410)
@@ -542,7 +538,7 @@ sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=c254be50d720
 n.topCat = $sp.getKBTopCategoryID(n.kb_category);
 ```
 
-### getKBSiblingCategories
+## getKBSiblingCategories
 
 [getKBSiblingCategories(string
 sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=ee307070d7201200a9addd173e24d4da)
@@ -554,7 +550,7 @@ sys\_id)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=ee307070d720
 cats = $sp.getKBSiblingCategories(data.catParam);
 ```
 
-### showCatalogPrices
+## showCatalogPrices
 
 [showCatalogPrices()](//.service-now.com/sp_widget_list.do?sysparm_query=id=widget-sc-cat-item)
 
@@ -564,7 +560,7 @@ cats = $sp.getKBSiblingCategories(data.catParam);
 data.showPrices = $sp.showCatalogPrices();
 ```
 
-### saveVariables
+## saveVariables
 
 [saveVariables()](//.service-now.com/sp_widget_list.do?sysparm_query=id=sp-variable-editor)
 
@@ -578,7 +574,7 @@ $sp.saveVariables(
 );
 ```
 
-### buildThemeVariableModel
+## buildThemeVariableModel
 
 [buildThemeVariableModel(string sys\_id,
 array)](//.service-now.com/sp_widget_list.do?sysparm_query=id=widget-portal-config)
@@ -589,7 +585,7 @@ array)](//.service-now.com/sp_widget_list.do?sysparm_query=id=widget-portal-conf
 var variableValues = $sp.buildThemeVariableModel(portalId, keys.join(","));
 ```
 
-### getVariablesArray
+## getVariablesArray
 
 [getVariablesArray()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=96cf39f3d7230200a9addd173e24d412)
 
@@ -599,7 +595,7 @@ var variableValues = $sp.buildThemeVariableModel(portalId, keys.join(","));
 data.variables = $sp.getVariablesArray();
 ```
 
-### getWidgetFromInstance
+## getWidgetFromInstance
 
 [getWidgetFromInstance(string)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=9b6187d0d7201200a9addd173e24d4dd)
 
@@ -609,7 +605,7 @@ data.variables = $sp.getVariablesArray();
 data.typeahead = $sp.getWidgetFromInstance('typeahead_search_header');
 ```
 
-### getRecordVariablesArray
+## getRecordVariablesArray
 
 [getRecordVariablesArray(GlideRecord)](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=f37aa302cb70020000f8d856634c9cfc)
 
@@ -619,7 +615,7 @@ data.typeahead = $sp.getWidgetFromInstance('typeahead_search_header');
 item.variables = $sp.getRecordVariablesArray(itemsGR);
 ```
 
-### getFilterBreadcrumbs
+## getFilterBreadcrumbs
 
 [getFilterBreadcrumbs(string table, string, query,
 null)](//.service-now.com/sp_widget_list.do?sysparm_query=id=widget-filter-breadcrumbs)
@@ -632,7 +628,7 @@ null)](//.service-now.com/sp_widget_list.do?sysparm_query=id=widget-filter-bread
 data.breadcrumbs = $sp.getFilterBreadcrumbs(table, query, null);
 ```
 
-### logStat
+## logStat
 
 | Method                                                                                                                                            | Notes |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -660,7 +656,7 @@ $sp.logStat(
 );
 ```
 
-### getInstanceRecord
+## getInstanceRecord
 
 [getInstanceRecord()](//.service-now.com/sp_widget_list.do?sysparm_query=sys_id=3caa67afcb13020000f8d856634c9c2e)
 
@@ -670,7 +666,7 @@ $sp.logStat(
 var gr = $sp.getInstanceRecord();
 ```
 
-### log
+## log
 
 | Method                                                                          | Notes |
 |---------------------------------------------------------------------------------|-------|
@@ -685,7 +681,7 @@ $sp.log("calc with input as follows... ");
 $sp.log(e);
 ```
 
-### saveRecord
+## saveRecord
 
 [saveRecord(string table, string sys\_id, array
 fields)](.service-now.com/sp_widget_list.do?sysparm_query=id=widget-form)
@@ -700,7 +696,7 @@ result = $sp.saveRecord(
 );
 ```
 
-### logSearch
+## logSearch
 
 logSearch()
 
@@ -711,7 +707,7 @@ logSearch()
 
 ![sp-logSearch.png](/uploads/sp-logSearch.png)
 
-### getSCRecord
+## getSCRecord
 
 getSCRecord()
 
@@ -725,7 +721,7 @@ getSCRecord()
 
 ![sp-getSCRecord.png](/uploads/sp-getSCRecord.png)
 
-### getStreamEntries
+## getStreamEntries
 
 getStreamEntries()
 
