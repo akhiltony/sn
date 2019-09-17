@@ -1,4 +1,0 @@
----
-title: com.glide.amb
----
-...

@@ -1,0 +1,32 @@
+---
+# Course title, summary, and position.
+linktitle: "com.snc.project.loglevel"
+summary: ""
+weight: 1
+# Page metadata.
+title: "com.snc.project.loglevel"
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID name.
+# - weight: Position of link in menu.
+menu:
+  properties:
+    parent: Properties
+    name: "com.snc.project.loglevel"
+    weight: 1
+---
+
+Description: Enable debugging of new project scripts. Script output is visible in console debugging, so you should also run the Debug Log module.
+
+0 : No project logging, only the system warnings and errors
+1 : Info level logging, only where entry points to function calls are logged
+2 : Debug level, all the debugging details are logged
+3 : Detailed log level, where even the task details are logged
+
+
+Value: `0`

@@ -1,0 +1,27 @@
+---
+# Course title, summary, and position.
+linktitle: "glide.cmdb.logger.use_syslog.Duplicate_Merger.executor"
+summary: ""
+weight: 1
+# Page metadata.
+title: "glide.cmdb.logger.use_syslog.Duplicate_Merger.executor"
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID name.
+# - weight: Position of link in menu.
+menu:
+  properties:
+    parent: Properties
+    name: "glide.cmdb.logger.use_syslog.Duplicate_Merger.executor"
+    weight: 1
+---
+
+Description: null
+
+
+Value: `info,warn,error`

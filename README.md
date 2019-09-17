@@ -1,52 +1,42 @@
-# OSAF
+# [Academic Kickstart](https://sourcethemes.com/academic/)
 
-> Open Source Activity Formatter
+**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
-## Installing / Getting started
+**Academic Kickstart** provides a minimal template to kickstart your new website.
 
-### Update Set
+- [**Get Started**](#install)
+- [View the documentation](https://sourcethemes.com/academic/docs/)
+- [Ask a question](http://discuss.gohugo.io/)
+- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
+- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
+- Support development of Academic:
+  - [Donate a coffee](https://paypal.me/cushen)
+  - [Become a backer on Patreon](https://www.patreon.com/cushen)
+  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
+  - [Wear the T-shirt](https://academic.threadless.com/)
 
-If you just want to try it out, follow these steps;
+[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-1. Download the XML from the `/dist/` folder
-2. Install the update set
-   ** THIS ONLY adds the UI MACRO, it does not change your forms **
+## Install
 
-### Docs 
-To get these docs up and running you need [hugo](https://github.com/gohugoio/hugo/releases).
+You can choose from one of the following four methods to install:
 
-```shell
-git clone https://github.com/jacebenson/atf
-cd atf
-git checkout b docs
-path/to/hugo server --watch #should bind to localhost:1313
-```
+* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
+* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
+* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
+* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
 
-The code above clones this repo, goes into the new directory
-and then expects you to run `hugo server --watch`, which 
-generates and serves the site locally.
+Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
+## Ecosystem
 
-## Contributing
+* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
+* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
-Pull requests are welcome. For major changes, please open an issue first to 
-discuss what you would like to change.
+## License
 
-However there are a lot of issues for everything I could find in servicenow.
-If you know that application feel free to fill out the issue and comment on it.
+Copyright 2017-present [George Cushen](https://georgecushen.com).
 
-### Setting up the repo
+Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
-1.  [Fork this project](https://github.com/jacebenson/osaf/fork)
-2.  Follow the [installation](#installation) steps, but use your repository.
-
-### Actually Contributing
-
-1.  [Fork it](https://github.com/jacebenson/osaf/fork)
-1.  Make your changes to the files in `/src`
-1.  Export your updates to a single update set and version it in `/dist`
-1.  Create a new Pull Request
-
-## Licensing
-
-"The code in this project is licensed under MIT license."
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)

@@ -1,0 +1,27 @@
+---
+# Course title, summary, and position.
+linktitle: "com.snc.pa.dc.script_timeout"
+summary: ""
+weight: 1
+# Page metadata.
+title: "com.snc.pa.dc.script_timeout"
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID name.
+# - weight: Position of link in menu.
+menu:
+  properties:
+    parent: Properties
+    name: "com.snc.pa.dc.script_timeout"
+    weight: 1
+---
+
+Description: Maximum time in seconds a script is allowed to run during a Data Collection cycle
+
+
+Value: `30`

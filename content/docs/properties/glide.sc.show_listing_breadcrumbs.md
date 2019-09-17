@@ -1,0 +1,27 @@
+---
+# Course title, summary, and position.
+linktitle: "glide.sc.show_listing_breadcrumbs"
+summary: ""
+weight: 1
+# Page metadata.
+title: "glide.sc.show_listing_breadcrumbs"
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID name.
+# - weight: Position of link in menu.
+menu:
+  properties:
+    parent: Properties
+    name: "glide.sc.show_listing_breadcrumbs"
+    weight: 1
+---
+
+Description: Show breadcrumbs for the categories associated with items when they are displayed in browse and search listings
+
+
+Value: `true`

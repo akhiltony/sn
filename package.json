@@ -4,7 +4,7 @@
   "description": "> Open Source Activity Formatter",
   "main": "build-properties.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "buildproperties": "node buildproperties.js"
   },
   "repository": {
     "type": "git",
