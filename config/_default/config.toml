@@ -16,7 +16,7 @@ baseurl = "https://sn.jace.pro/"
 copyright = "Jace &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-42868059-5"
 
 ############################
 ## Advanced options below ##
