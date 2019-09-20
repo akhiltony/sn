@@ -136,6 +136,18 @@ incident.setWorkflow(false);//default is true
 incident.insert();//returns the sys_id string of inserted record
 ```
 
+### setUseEngines
+
+Disable or enable the running of any engines (approval rules / assignment rules).
+
+``` {.js}
+var incident = new GlideRecord('incident');
+incident.newRecord();
+incident.setValue('short_description','This is text');
+incident.setUseEngines(false);//default is true
+incident.insert();//returns the sys_id string of inserted record
+```
+
 ## Access
 
 ### canCreate
