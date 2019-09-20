@@ -23,9 +23,6 @@ menu:
 weight: 1
 ---
 
-## Overview
-
-
 A list of all the variable attributes that could be found here on the
 [docs](https://docs.servicenow.com/bundle/jakarta-it-service-management/page/product/service-catalog-management/reference/variable-attributes.html#variable-attributes).
 
@@ -34,12 +31,6 @@ A list of all the variable attributes that could be found here on the
 Value: `true/false`\
 Target Variable: List collector\
 Changes the list collector interface from slushbucket to glide list.
-
-
-Attribute
-Value
-Target element
-Description
 
 ## accept_code
 
@@ -66,111 +57,126 @@ Target element: Template Value
 Value: true/false\
 Target element: field_name field\
 Description: If present or true, allows entering "None" as the field
-|
+
 ## allow_order
-Value: true/false
+
+Value: true/false\
 Target element: Conditions
 
 
 ## allow_public
-Value: true/false
+
+Value: true/false\
 Target element: Reference, String, Table Name
 
-
 ## allow_references
-Value: true/false
-Target element: field\_name field
-| If true, a tree is displayed to select from that includes reference fields so you can dot-walk.
-|
-## allow_related_list_query
-Value: true/false
-| condition field
-| this allows RLQUERY type calls which reduces the need for database views. [Source](https://youtu.be/s2aRGT9WIRk?t=1113)
-|
-## allow_tables
-Value: table name
-| Table Name
 
+Value: true/false\
+Target element: field\_name field
+If true, a tree is displayed to select from that includes reference fields so you can dot-walk.
+
+## allow_related_list_query
+
+Value: true/false\
+Target element: condition field this allows RLQUERY type calls which reduces the need for database views. [Source](https://youtu.be/s2aRGT9WIRk?t=1113)
+
+## allow_tables
+
+Value: table name\
+Target element: Table Name
 
 ## approval_user
-Value: name of field containing the user(s) for the approval type this field represents
-| integer field
-| The fields of the table are used to perform the lookup using a matcher. Approvals are specified as fields in the table that have an attribute of approval\_user=, where indicates the field in the table that contains the users for this approval type. Fields with this attribute contain an integer value that indicates the sequence for the approvals. All approval fields with the same sequence number indicate that multiple approvals are required before continuing. Approvals are requested in the order of the sequence numbers. For example, all approvals with sequence number 100 must be approved before approvals with sequence number 200 are requested. |
-## attachment_index
-Value: true/false
-| any table
-| If true, attachments on the table are indexed for search purposes. See Enable Attachment Indexing.
-|
-## audit
-Value: true/false
-| String
 
+Value: name of field containing the user(s) for the approval type this field represents\
+Target element: integer field
+Description: The fields of the table are used to perform the lookup using a matcher. Approvals are specified as fields in the table that have an attribute of approval\_user=, where indicates the field in the table that contains the users for this approval type. Fields with this attribute contain an integer value that indicates the sequence for the approvals. All approval fields with the same sequence number indicate that multiple approvals are required before continuing. Approvals are requested in the order of the sequence numbers. For example, all approvals with sequence number 100 must be approved before approvals with sequence number 200 are requested.
+
+## attachment_index
+
+Value: true/false\
+Target element: any table\
+Description: If true, attachments on the table are indexed for search purposes. See Enable Attachment Indexing.
+
+## audit
+
+Value: true/false\
+Target element: String
 
 ## barcode
-Value: true/false
-| string field
-| Allows a string field in the Native mobile app to access a mobile device's camera to scan and process a bar code.
-|
-## base_start
-Value: true/false
-| Table Name
 
+Value: true/false\
+Target element: string field\
+Description: Allows a string field in the Native mobile app to access a mobile device's camera to scan and process a bar code.
+
+## base_start
+
+Value: true/false\
+Target element: Table Name
 
 ## base_table
-Value: name of base table type
-## table_name` field
-| A table\_name field allows the user to choose any table derived from the table specified by this attribute. By default, the base table itself is also included in the choice list (but see skip\_root to turn off this behavior).
-|
-## calendar_elements
-Value: list of field names, separated by semicolons (";")
-| any calendar event table
-| Specifies a list of fields to be used when constructing the description of a calendar event. If not specified, the usual display name plus short description are used.The calendar\_elements attribute does not support derived (dot-walked) fields.
-|
-## can_group
-Value: true/false
-| String
 
+Value: name of base table type
+
+## table_name field
+
+Description: A table\_name field allows the user to choose any table derived from the table specified by this attribute. By default, the base table itself is also included in the choice list (but see skip\_root to turn off this behavior).
+
+## calendar_elements
+
+Value: list of field names, separated by semicolons (";")\
+Target element: any calendar event table\
+Description: Specifies a list of fields to be used when constructing the description of a calendar event. If not specified, the usual display name plus short description are used.The calendar\_elements attribute does not support derived (dot-walked) fields.
+
+## can_group
+
+Value: true/false\
+Target element: String
 
 ## clean_reference
-Value: true/false
-| Auto IncrementReference
 
+Value: true/false\
+Target element: Auto IncrementReference
 
 ## client_script
-Value: true/false
-| Script, Script (Plain)
 
+Value: true/false\
+Target element: Script, Script (Plain)
 
 ## close_states
-Value: inactive state integer values
-| task state field
-| Used by the TaskStateUtil API - identifies the list inactive state values delimited by semicolons (;)
-|
-## collection_interval
-Value: interval specified as "HH:MM:SS" (like "01:02:30" for one hour, two minutes, and thirty seconds) | collection field
-| Specifies the interval of metrics collection.
-|
-## cond_field_ref
-Value: condition
-| String
 
+Value: inactive state integer values\
+Target element: task state field\
+Description: Used by the TaskStateUtil API - identifies the list inactive state values delimited by semicolons (;)
+
+## collection_interval
+
+Value: interval specified as "HH:MM:SS" (like "01:02:30" for one hour, two minutes, and thirty seconds)\
+Target element: collection field\
+Description: Specifies the interval of metrics collection.
+
+## cond_field_ref
+
+Value: condition\
+Target element: String
 
 ## condition_builder
-Value: "v2"
-| Conditions
 
+Value: "v2"\
+Target element: Conditions
 
 ## convert_urls
-Value: true/false
-| HTML, HTML Script
 
+Value: true/false\
+Target element: HTML, HTML Script
 
 ## critical
-Value: true/false
-| any field in the apm\_application table
-| Defines fields that are critical information about an application. This allows tracking the entry of critical information.
-|
+
+Value: true/false\
+Target element: any field in the apm\_application table\
+Description: Defines fields that are critical information about an application. This allows tracking the entry of critical information.
+
 ## current_location
+
 Value: true/false
 | string field
 | Allows a string field in the Native mobile app to access the GPS location of a mobile device.
