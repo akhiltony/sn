@@ -50,5 +50,13 @@ gs.info('decrypted: ' + decrypted);
 ## Scoped Decrypt
 
 ``` {.js}
-gr.password.getDecryptedValue()
+gr.password.getDecryptedValue()'
+```
+
+## Scoped Encrypt
+
+If you are setting a password2 field, this is how you do it in scope.
+
+``` {.js}
+gr.password.setDisplayValue('un-encrypted string goes here');
 ```
